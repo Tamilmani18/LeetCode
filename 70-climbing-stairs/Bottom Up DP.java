@@ -17,7 +17,9 @@ class Solution {
         }
 
         return dp[n];
-    }
-
-    
+    }   
 }
+
+/*
+Computing next step based on previous two steps
+*/
