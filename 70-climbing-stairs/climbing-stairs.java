@@ -1,6 +1,6 @@
 class Solution {
     
-    // Fibonacci series Approach
+    // Fibonacci series Approach with constant SC
 
     public int climbStairs(int n) {
         
