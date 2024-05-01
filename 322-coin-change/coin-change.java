@@ -27,3 +27,12 @@ class Solution {
 
     }
 }
+
+/*
+
+For every amount from from 1 to n given amount we are computing the minimum remaining coins
+for every amount we are iterating through every coins which is <= amount not > amount
+and finding the remaining coins by subtracting the amount with coins and picking the min of already precomputed no of coins from dp
+and finally adding 1 for cuurent picked amount with min no of coins .
+
+*/
