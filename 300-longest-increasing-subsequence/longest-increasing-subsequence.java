@@ -16,9 +16,9 @@ class Solution {
             int len = 0;
             
             for ( int j = 0; j < i; j++ ) {
-                
+                // Picking the elements which is less than the current element (i)
                 if ( nums[j] < nums[i] ) {
-
+                    // and the values are max
                     len = Math.max( len, dp[j] );
 
                 }
