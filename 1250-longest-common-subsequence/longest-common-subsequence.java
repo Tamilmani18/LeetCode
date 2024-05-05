@@ -5,7 +5,7 @@ class Solution {
     
     private int solve(int i, int j) {
         if ( i >= text1.length() || j >= text2.length() ) return 0;
-        if ( dp[i][j] != -1 ) return dp[i][j]; 
+        if ( dp[i][j] != -1 ) return dp[i][j]; // Checking if already computed
         int ans;
         if ( text1.charAt(i) == text2.charAt(j) ) {
            ans = 1 + solve(i+1 , j+1);
