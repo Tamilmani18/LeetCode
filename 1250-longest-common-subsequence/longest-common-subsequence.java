@@ -9,6 +9,7 @@ class Solution {
        }
        
        int n = text1.length() , m = text2.length();
+       
        int[] prevDp = new int[m+1];
        int[] dp = new int[m+1];
 
