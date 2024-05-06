@@ -14,8 +14,8 @@ class Solution {
                 
                 if ( set.contains(suffix) && dp[j] == true ) {
                     
-                    dp[i] = true;
-                    break;
+                    dp[i] = true; // Indicates ending position of substring
+                    break; // if ending position is found break and continue to next substring (i)
                 }
             }
         }
