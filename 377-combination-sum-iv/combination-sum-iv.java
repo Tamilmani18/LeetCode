@@ -9,7 +9,7 @@ class Solution {
         for ( int i = 1; i <= target; i++ ) {
             
             for ( int num : nums ) {
-                // picking numbers which <= target from nums arr
+                // picking numbers which is <= target from nums array
                 if ( num <= i ) { 
                     dp[i] += dp[ i - num ]; // dp[i] + dp[target - picked number]
                 } 
