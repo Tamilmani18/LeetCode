@@ -11,6 +11,7 @@ class Solution {
         for (int curr = 1; curr < intervals.length; curr++) {
             int endTimeOfPrev = intervals[prev][1];
             int startTimeOfCurr = intervals[curr][0];
+            // Non Overlapping interval
             if (endTimeOfPrev <= startTimeOfCurr) {
                 count++;
                 prev = curr;
