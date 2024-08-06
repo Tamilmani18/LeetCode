@@ -31,7 +31,8 @@ class Solution {
     }
 }
 
+// (col)
 // L      R
-//          T
+//          T (row)
 // 
 //          B
