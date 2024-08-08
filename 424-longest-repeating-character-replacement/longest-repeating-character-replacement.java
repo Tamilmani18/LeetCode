@@ -13,17 +13,10 @@ class Solution {
             if (right - left + 1 - maxF > k) {
                 frequency[s.charAt(left) - 'A']--;
                 left++;
-                maxF = findMaxFrq(frequency);
             }
             
             maxLength = Math.max(maxLength, right - left + 1);
         }
         return maxLength;
-    }
-
-    public int findMaxFrq(int[] frq) {
-        int max = 0;
-        for (int n : frq) max = Math.max(max, n);
-        return max;
     }
 }
