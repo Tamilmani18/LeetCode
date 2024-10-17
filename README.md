@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tamilmani18/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Tamilmani18/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tamilmani18/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0441-arranging-coins](https://github.com/Tamilmani18/LeetCode/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tamilmani18/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Tamilmani18/LeetCode/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
