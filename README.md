@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tamilmani18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tamilmani18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Tamilmani18/LeetCode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Tamilmani18/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Tamilmani18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tamilmani18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Tamilmani18/LeetCode/tree/master/0242-valid-anagram) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tamilmani18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Tamilmani18/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tamilmani18/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Tamilmani18/LeetCode/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Tamilmani18/LeetCode/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tamilmani18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Tamilmani18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/Tamilmani18/LeetCode/tree/master/0202-happy-number) |
 | [0917-boats-to-save-people](https://github.com/Tamilmani18/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Tamilmani18/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
