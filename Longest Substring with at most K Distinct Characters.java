@@ -22,19 +22,28 @@
 // TC -> O(n2)
 // SC -> O(n)
 
-public static int lengthOfLongestSubstringKDistinct(String s, int k) {
-        int[] map = new int[256];
-        int cnt = 0, max = 0; 
-        for (int i = 0, j = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            map[c]++;
-            if (map[c] == 1) cnt++;
-            for (; cnt > k; j++) {
-                c = s.charAt(j);
-                map[c]--;
-                if (map[c] == 0) cnt--; 
+    private static int lengthOfLongestSubstringKDistinct(String s, int k) {
+        Map<Character, Integer> map = new HashMap<>();
+        int max = Integer.MIN_VALUE;
+        int left = 0;
+        int right = 0;
+
+        while (right < s.length()) {
+            char c = s.charAt(right);
+            map.put(c, map.getOrDefault(c, 0) + 1);
+            while (map.size() > k) {
+                char leftChar = s.charAt(left);
+                map.put(leftChar, map.get(leftChar) - 1);
+                if (map.get(leftChar) == 0) {
+                    map.remove(leftChar);
+                }
+                left++;
             }
-            max = Math.max(max, i - j + 1); 
+            max = Math.max(max, right - left + 1);
+            right++;
         }
         return max;
     }
+
+// TC -> O(n + n)
+// SC -> O(n)
