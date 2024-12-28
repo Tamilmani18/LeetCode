@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tamilmani18/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/Tamilmani18/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/0948-sort-an-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Tamilmani18/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Tamilmani18/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Tamilmani18/LeetCode/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Tamilmani18/LeetCode/tree/master/0441-arranging-coins) |
+| [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 ## Recursion
 |  |
 | ------- |
