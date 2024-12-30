@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tamilmani18/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Tamilmani18/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Tamilmani18/LeetCode/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Tamilmani18/LeetCode/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
