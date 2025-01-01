@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tamilmani18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tamilmani18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/Tamilmani18/LeetCode/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tamilmani18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tamilmani18/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/Tamilmani18/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamilmani18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Tamilmani18/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Tamilmani18/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Merge Sort
 |  |
