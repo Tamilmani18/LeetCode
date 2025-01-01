@@ -15,7 +15,7 @@ class Solution {
     }
 }
 
-
+// https://leetcode.com/problems/count-good-triplets/solutions/769821/java-o-n-well-it-is-really-o-1000-n
 class Solution {
     public int countGoodTriplets(int[] arr, int a, int b, int c) {
         int n = arr.length;
