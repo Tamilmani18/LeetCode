@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Tamilmani18/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2785-semi-ordered-permutation](https://github.com/Tamilmani18/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tamilmani18/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Tamilmani18/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tamilmani18/LeetCode/tree/master/0242-valid-anagram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tamilmani18/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/Tamilmani18/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tamilmani18/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
 |  |
