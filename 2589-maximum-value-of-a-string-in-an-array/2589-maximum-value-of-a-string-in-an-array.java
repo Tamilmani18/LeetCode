@@ -18,3 +18,26 @@ class Solution {
         return maxValue;
     }
 }
+
+class Solution {
+    public int maximumValue(String[] strs) {
+        int ans = 0;
+        for(String str : strs){
+            for(char c : str.toCharArray()){
+                if(c >= 'a' && c <= 'z'){
+                    ans = Math.max(ans, str.length());
+                    break;
+                }
+                else{
+                    try{
+                        ans = Math.max(ans, Integer.parseInt(str));
+                    }
+                    catch(Exception e){
+                        System.out.println(e);
+                    }
+                }
+            }
+        }
+        return ans;
+    }
+}
