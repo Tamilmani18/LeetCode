@@ -14,3 +14,20 @@ class Solution {
         return matrix;
     }
 }
+
+class Solution {
+    public int[][] modifiedMatrix(int[][] matrix) {
+        for (int c = 0; c < matrix[0].length; c++) {
+            int maxVal = Integer.MIN_VALUE;
+            for (int r = 0; r < matrix.length; r++) {
+                maxVal = Math.max(maxVal, matrix[r][c]);
+            }
+            for (int r = 0; r < matrix.length; r++) {
+                if (matrix[r][c] == -1) {
+                    matrix[r][c] = maxVal;
+                }
+            }
+        }
+        return matrix;
+    }
+}
