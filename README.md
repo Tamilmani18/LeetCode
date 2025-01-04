@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
 | [2785-semi-ordered-permutation](https://github.com/Tamilmani18/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tamilmani18/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Tamilmani18/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Tamilmani18/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Tamilmani18/LeetCode/tree/master/0441-arranging-coins) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Tamilmani18/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
