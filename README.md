@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tamilmani18/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Tamilmani18/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Tamilmani18/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3183-find-the-k-or-of-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3330-modify-the-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tamilmani18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Tamilmani18/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tamilmani18/LeetCode/tree/master/0136-single-number) |
+| [3183-find-the-k-or-of-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 ## Math
 |  |
 | ------- |
