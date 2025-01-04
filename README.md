@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Tamilmani18/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0944-smallest-range-i](https://github.com/Tamilmani18/LeetCode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/0948-sort-an-array) |
+| [0978-valid-mountain-array](https://github.com/Tamilmani18/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
