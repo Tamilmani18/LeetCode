@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Tamilmani18/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1028-interval-list-intersections](https://github.com/Tamilmani18/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1306-minimum-absolute-difference](https://github.com/Tamilmani18/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/Tamilmani18/LeetCode/tree/master/1656-count-good-triplets) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tamilmani18/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/Tamilmani18/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/0948-sort-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Tamilmani18/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tamilmani18/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
