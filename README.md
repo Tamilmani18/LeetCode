@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Tamilmani18/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Tamilmani18/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3330-modify-the-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tamilmani18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Tamilmani18/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tamilmani18/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
