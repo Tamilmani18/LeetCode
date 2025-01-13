@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Tamilmani18/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Tamilmani18/LeetCode/tree/master/1656-count-good-triplets) |
 | [1769-get-maximum-in-generated-array](https://github.com/Tamilmani18/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tamilmani18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tamilmani18/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tamilmani18/LeetCode/tree/master/0242-valid-anagram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tamilmani18/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1524-string-matching-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/Tamilmani18/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tamilmani18/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Tamilmani18/LeetCode/tree/master/1028-interval-list-intersections) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
