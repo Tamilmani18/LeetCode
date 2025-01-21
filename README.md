@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Tamilmani18/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1028-interval-list-intersections](https://github.com/Tamilmani18/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1063-best-sightseeing-pair](https://github.com/Tamilmani18/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1306-minimum-absolute-difference](https://github.com/Tamilmani18/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tamilmani18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tamilmani18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1063-best-sightseeing-pair](https://github.com/Tamilmani18/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Sliding Window
 |  |
 | ------- |
