@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-get-maximum-in-generated-array](https://github.com/Tamilmani18/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tamilmani18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Tamilmani18/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tamilmani18/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tamilmani18/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Tamilmani18/LeetCode/tree/master/0645-set-mismatch) |
 | [1140-distant-barcodes](https://github.com/Tamilmani18/LeetCode/tree/master/1140-distant-barcodes) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tamilmani18/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tamilmani18/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3330-modify-the-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Tamilmani18/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Simulation
