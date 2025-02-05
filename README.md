@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Tamilmani18/LeetCode/tree/master/1656-count-good-triplets) |
 | [1769-get-maximum-in-generated-array](https://github.com/Tamilmani18/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tamilmani18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1899-count-items-matching-a-rule](https://github.com/Tamilmani18/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Tamilmani18/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tamilmani18/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tamilmani18/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tamilmani18/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/Tamilmani18/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1899-count-items-matching-a-rule](https://github.com/Tamilmani18/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tamilmani18/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Tamilmani18/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
