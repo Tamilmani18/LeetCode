@@ -26,3 +26,6 @@ public List<List<String>> groupAnagrams(String[] words) {
         return new ArrayList<>(anagramGroups.values());
     }
 }
+// k -> length of the word
+// TC -> O(n klog k) 
+// SC -> O(nk)
