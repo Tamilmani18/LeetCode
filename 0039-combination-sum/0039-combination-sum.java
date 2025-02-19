@@ -24,6 +24,6 @@ class Solution {
         return result;
     }
 }
-
+// k -> height of the recursion tree or decision tree
 // TC -> O(2^k * n)
 // SC -> O(k)
