@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3183-find-the-k-or-of-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Tamilmani18/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3324-split-the-array](https://github.com/Tamilmani18/LeetCode/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tamilmani18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Tamilmani18/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Tamilmani18/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3324-split-the-array](https://github.com/Tamilmani18/LeetCode/tree/master/3324-split-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Tamilmani18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1140-distant-barcodes](https://github.com/Tamilmani18/LeetCode/tree/master/1140-distant-barcodes) |
 | [3317-maximum-palindromes-after-operations](https://github.com/Tamilmani18/LeetCode/tree/master/3317-maximum-palindromes-after-operations) |
+| [3324-split-the-array](https://github.com/Tamilmani18/LeetCode/tree/master/3324-split-the-array) |
 ## Quickselect
 |  |
 | ------- |
