@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Tamilmani18/LeetCode/tree/master/0441-arranging-coins) |
 | [0944-smallest-range-i](https://github.com/Tamilmani18/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1103-moving-stones-until-consecutive](https://github.com/Tamilmani18/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1103-moving-stones-until-consecutive](https://github.com/Tamilmani18/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 <!---LeetCode Topics End-->
