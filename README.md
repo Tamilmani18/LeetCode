@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/Tamilmani18/LeetCode/tree/master/1140-distant-barcodes) |
 | [1306-minimum-absolute-difference](https://github.com/Tamilmani18/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Tamilmani18/LeetCode/tree/master/1656-count-good-triplets) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Tamilmani18/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1103-moving-stones-until-consecutive](https://github.com/Tamilmani18/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1769-get-maximum-in-generated-array](https://github.com/Tamilmani18/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2785-semi-ordered-permutation](https://github.com/Tamilmani18/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tamilmani18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
