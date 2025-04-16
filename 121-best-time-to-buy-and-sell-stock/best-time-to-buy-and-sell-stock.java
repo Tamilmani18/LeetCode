@@ -1,3 +1,24 @@
+
+class Solution {
+    public int maxProfit(int[] prices) {
+        
+        int n = prices.length;
+
+        if ( n <= 1 ) return 0;
+
+        int maxProfit = 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                int currProfit = prices[j] - prices[i];
+                maxProfit = Math.max(currProfit, maxProfit);
+            }
+        }
+
+        return maxProfit;
+    }
+}
+
 class Solution {
     public int maxProfit(int[] prices) {
         
