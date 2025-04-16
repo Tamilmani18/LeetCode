@@ -1,3 +1,7 @@
+
+// Sorting & Checking adjacent elements -> O(n log n)
+// Nested For loop -> O(n2)
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         
