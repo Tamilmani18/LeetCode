@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tamilmani18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamilmani18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Tamilmani18/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Tamilmani18/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Tamilmani18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tamilmani18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tamilmani18/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tamilmani18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Tamilmani18/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Tamilmani18/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tamilmani18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/Tamilmani18/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Sliding Window
