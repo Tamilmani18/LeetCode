@@ -1,3 +1,10 @@
+// Brute Force Approach
+// Traverse the array from left to right
+// find the index of the target element
+
+
+// Binary Search
+
 class Solution {
     
     public int search(int[] nums, int target) {
