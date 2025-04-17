@@ -1,3 +1,10 @@
+// Brute Force Approach
+// Scan the array from left to right 
+// & keep track of minimum element
+
+
+// Binary Search
+
 class Solution {
     public int findMin(int[] nums) {
         
