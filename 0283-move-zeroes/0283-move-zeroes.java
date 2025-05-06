@@ -1,3 +1,11 @@
+// Brute Force Approach
+
+// Use Queue & add all non zero elements from the array
+// to the queue then add it to the array & fill remaining with zeroes.
+
+
+// Optimized
+
 class Solution {
     public void moveZeroes(int[] nums) {
         int n = nums.length;
