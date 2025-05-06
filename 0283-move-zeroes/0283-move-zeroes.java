@@ -28,6 +28,23 @@ class Solution {
 class Solution {
     public void moveZeroes(int[] nums) {
         int n = nums.length;
+        if (n == 1) return;
+        int left = 0;
+        for(int right = 0; right < n; right++){
+            if (nums[right] != 0) {
+                nums[left] = nums[right];
+                left++;
+            }
+        }
+        for (int i = left; i < n; i++) {
+            nums[i] = 0;
+        }
+    }
+}
+
+class Solution {
+    public void moveZeroes(int[] nums) {
+        int n = nums.length;
         int count = 0;
 
         for(int i = 0; i < n; i++){
