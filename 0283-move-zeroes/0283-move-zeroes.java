@@ -1,8 +1,27 @@
 // Brute Force Approach
 
-// Use Queue & add all non zero elements from the array
-// to the queue then add it to the array & fill remaining with zeroes.
+class Solution {
+    public void moveZeroes(int[] nums) {
+        int n = nums.length;
 
+        if (n == 1) return;
+
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != 0) {
+                queue.add(nums[i]);
+            }
+        }
+        for (int i = 0; i < n; i++) {
+            if (!queue.isEmpty()) {
+                nums[i] = queue.poll();
+            }
+            else {
+                nums[i] = 0;
+            }
+        }
+    }
+}
 
 // Optimized
 
