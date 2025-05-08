@@ -25,6 +25,10 @@ class Solution {
 
 // Optimized
 
+// Initialize two pointers left & right at index 0
+// if the value at right index is 0 move right pointer
+// if the value at right index is non zero update the value at left index with the value at right index & move left & right pointers
+
 class Solution {
     public void moveZeroes(int[] nums) {
         int n = nums.length;
