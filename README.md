@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tamilmani18/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tamilmani18/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/Tamilmani18/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
