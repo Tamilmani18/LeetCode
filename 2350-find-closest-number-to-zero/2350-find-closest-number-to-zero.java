@@ -1,3 +1,9 @@
+// Complexity
+
+// Time complexity: O(n log n)
+
+// Space complexity:O(1)
+
 class Solution {
     public int findClosestNumber(int[] nums) {
         Arrays.sort(nums);
@@ -14,3 +20,31 @@ class Solution {
         return closestToZero;
     }
 }
+
+// Complexity
+
+// Time complexity: O(n)
+
+// Space complexity:O(1)
+
+
+class Solution {
+    public int findClosestNumber(int[] nums) {
+        int minSoFar = Integer.MAX_VALUE;
+        int actualValue = Integer.MIN_VALUE;
+        for (int i = 0; i < nums.length; i++) {
+            int curVal = Math.abs(nums[i]);
+            if (curVal < minSoFar) {
+                minSoFar = curVal;
+                actualValue = nums[i];
+            } else if (nums[i] == minSoFar) {
+                minSoFar = Math.max(minSoFar, nums[i]);
+                actualValue = minSoFar;
+            }
+        }
+        return actualValue;
+    }
+}
+
+
+
