@@ -38,7 +38,6 @@ class Solution {
                 minSoFar = absVal;
                 actualValue = nums[i];
             } else if (nums[i] == minSoFar) {
-                minSoFar = Math.max(minSoFar, nums[i]);
                 actualValue = minSoFar;
             }
         }
