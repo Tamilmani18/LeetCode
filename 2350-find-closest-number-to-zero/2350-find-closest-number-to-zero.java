@@ -33,9 +33,9 @@ class Solution {
         int minSoFar = Integer.MAX_VALUE;
         int actualValue = Integer.MIN_VALUE;
         for (int i = 0; i < nums.length; i++) {
-            int curVal = Math.abs(nums[i]);
-            if (curVal < minSoFar) {
-                minSoFar = curVal;
+            int absVal = Math.abs(nums[i]);
+            if (absVal < minSoFar) {
+                minSoFar = absVal;
                 actualValue = nums[i];
             } else if (nums[i] == minSoFar) {
                 minSoFar = Math.max(minSoFar, nums[i]);
