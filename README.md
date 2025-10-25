@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Tamilmani18/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1103-moving-stones-until-consecutive](https://github.com/Tamilmani18/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Tamilmani18/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tamilmani18/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Tamilmani18/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
