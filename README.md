@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Tamilmani18/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tamilmani18/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Tamilmani18/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/Tamilmani18/LeetCode/tree/master/2169-simple-bank-system) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tamilmani18/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tamilmani18/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tamilmani18/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Tamilmani18/LeetCode/tree/master/0645-set-mismatch) |
 | [1140-distant-barcodes](https://github.com/Tamilmani18/LeetCode/tree/master/1140-distant-barcodes) |
 | [1319-unique-number-of-occurrences](https://github.com/Tamilmani18/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [2169-simple-bank-system](https://github.com/Tamilmani18/LeetCode/tree/master/2169-simple-bank-system) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Tamilmani18/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2561-number-of-distinct-averages](https://github.com/Tamilmani18/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Tamilmani18/LeetCode/tree/master/2634-minimum-common-value) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Tamilmani18/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1769-get-maximum-in-generated-array](https://github.com/Tamilmani18/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
+| [2169-simple-bank-system](https://github.com/Tamilmani18/LeetCode/tree/master/2169-simple-bank-system) |
 | [2785-semi-ordered-permutation](https://github.com/Tamilmani18/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tamilmani18/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Enumeration
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tamilmani18/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Tamilmani18/LeetCode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
